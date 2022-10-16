@@ -1,2 +1,2 @@
 # LAB
-For lab practicer
+For lab practice
